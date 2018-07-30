@@ -24,6 +24,7 @@ namespace Snake
         {
             Console.SetCursorPosition(x, y);
             Console.Write(sym);
+            Console.Write(sym);
         }
     }
 }
